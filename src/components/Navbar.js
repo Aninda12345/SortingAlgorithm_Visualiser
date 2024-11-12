@@ -19,10 +19,10 @@ const Navbar = ({
         className='nav-brand'
         onClick={() =>
           (window.location =
-            'https://github.com/jyoti369/sorting_visualizer')
+            'https://github.com/Aninda12345/SortMaster.git')
         }
       >
-        Sorting Visualizer
+       SortMaster
       </div>
 
       <div className='toolbox'>
